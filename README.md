@@ -42,3 +42,14 @@
 + PPP Point-to-Point Protocol 点对点协议
 + PPPoE Point-to-Point Protocol over Ethernet 以太网的点对点协议
 + QoS Quality of Service 服务质量 
++ SDU Service Data Unit 服务数据单元
++ SET Secure Electronic Transaction 安全电子交易
++ SMTP Simple Mail Transfer Protocol 简单邮件传送协议
++ SNMP Simple Network Management Protocol 简单网络管理协议
++ SOH Start Of Header  首部开始
++ SSL Secure Socket Layer 安全插口层，或安全套接层(协议)
++ TCP Transmission Control Protocol 传输控制协议
++ TDM Time Division Multiplexing 时分复用
++ TTL Time to Live 生存时间
++ UDP User Datagram Protocol 用户数据报协议
++ VLAN Virtual LAN 虚拟局域网
