@@ -2,7 +2,7 @@
 |单词缩写|英文词意|中文词意|
 |:--------:|:------------------------------:|:------------------------------:|
 |ACK       |ACKnowledgement | 确认|
-|ADSL      |Asymmetric Digital Subsriber Line | 非对称用户线|
+|ADSL      |Asymmetric Digital Subscriber Line | 非对称用户线|
 |AES       |Advanced Encryption Standrard | 先进的加密标准|
 |AH        |Authentication Header | 鉴别首部|
 |AP        |Access Point | 接入点|
