@@ -53,3 +53,10 @@
 + TTL Time to Live 生存时间
 + UDP User Datagram Protocol 用户数据报协议
 + VLAN Virtual LAN 虚拟局域网
++ VoIP Voice over IP 在IP上的语音
++ VPN Virtual Private Network 虚拟专用网
++ WAN Wide Area Network 广域网
++ WDM Wavelenght Division Multiplexing 波分复用
++ WLAN Wireless Local Area Network 无线局域网
++ WMAN Wireless Metropolitan Area Network 无线城域网
++ WPAN Wireless Personal Area Network 无线个人区域网
