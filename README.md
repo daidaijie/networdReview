@@ -32,3 +32,13 @@
 + LAN Local Area Network 局域网
 + MAC Medium Access Control 媒体接入控制
 + MAN Metropolitan Area Netword 城域网
++ MTU Maximum Transfer Unit 最大传输单元
++ NAT Network Address Point 网络接入点
++ P2P Peer-to-Peer 对等方式
++ PAN Personal Area Network 个人局域网
++ PCM Pulse Code Modulation 脉码控制
++ PDU Protocol Data Unit 协议数据单元
++ PKI Public Key Infrastructure 公钥基础结构
++ PPP Point-to-Point Protocol 点对点协议
++ PPPoE Point-to-Point Protocol over Ethernet 以太网的点对点协议
++ QoS Quality of Service 服务质量 
